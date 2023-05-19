@@ -8,7 +8,7 @@
 In progress, coming in the near future...
 
 ## Paradigm Shift
-<img src="https://github.com/microsoft/visual-chatgpt/blob/main/assets/paradigm.png" width="1000">
+<img src="../assets/paradigm.png" width="1000">
 
 ## System Overview
-<img src="https://github.com/microsoft/visual-chatgpt/blob/main/assets/overview.png" width="1000">
+<img src="../assets/overview.png" width="1000">
